@@ -47,24 +47,13 @@ portfolio  : https://raiyanchowdhury.me
 
 ## 🚀 Current Focus
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
 ### 🔭 Working On
 **GeoCast** — A geospatial data broadcasting project combining data engineering and visualization to make location-based insights more accessible.
-
-    </td>
-    <td valign="top" width="50%">
 
 ### 🌱 Currently Learning
 - 📦 Data Wrangling & Cleaning Pipelines
 - ⚙️ Data Engineering Fundamentals
 - ❓ Asking the right questions from data
-
-    </td>
-  </tr>
-</table>
 
 ---
 
