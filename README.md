@@ -14,7 +14,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=raiyanchowdhury225&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views"/>
   &nbsp;
-  <a href="https://linkedin.com/in/raiyan-chowdhury">
+  <a href="https://www.linkedin.com/in/raiyan-chowdhury-0053b33b4/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
